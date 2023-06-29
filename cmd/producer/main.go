@@ -1,6 +1,6 @@
 package main
 
-import "github.com/arthurgrigoletto/fcutils/pkg/rabbitmq"
+import "github.com/arthurgrigoletto/rabbitmq-events/pkg/rabbitmq"
 
 func main() {
 	ch, err := rabbitmq.OpenChannel()

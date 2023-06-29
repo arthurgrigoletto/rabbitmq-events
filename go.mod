@@ -1,4 +1,4 @@
-module github.com/arthurgrigoletto/fcutils
+module github.com/arthurgrigoletto/rabbitmq-events
 
 go 1.20
 
